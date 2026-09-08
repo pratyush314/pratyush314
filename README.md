@@ -5,21 +5,6 @@ Currently building production-grade web apps and exploring AI/ML integrations.
 
 ---
 
-## 📈 GitHub Contributions & Stats
-
-<!-- Contribution graph -->
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/api?username=pratyush314&theme=github-compact&hide_border=true)
-
-<!-- Stats cards -->
-![](https://github-readme-stats.vercel.app/api?username=pratyush314&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pratyush314&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Optional: contribution card with top repos -->
-![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=pratyush314)
-
----
-
 ## 💻 Tech Stack
 
 ### Frontend
@@ -62,28 +47,6 @@ Currently building production-grade web apps and exploring AI/ML integrations.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-
----
-
-## 🚀 Current Focus & Projects
-
-- **MERN + Gen AI**: Building full-stack apps with AI features (chatbots, assistants, RAG).
-- **Data Structures & Algorithms**: Strengthening problem-solving skills.
-- **AI/ML**: Exploring agents, multi-agent systems, and reinforcement learning.
-
-> Add 2–3 key projects here with:
-> - Project name
-> - One-line description
-> - Tech stack
-> - Live demo / repo link
-
-Example:
-
-- **Project Name** – Short description of what it does.  
-  *Stack:* Next.js, NestJS, PostgreSQL, Docker  
-  [Live Demo](#) • [Repo](#)
-
----
 
 ## 🌐 Connect
 
